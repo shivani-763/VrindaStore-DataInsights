@@ -27,7 +27,7 @@
 3. Use filters and interactive visuals to explore sales insights
 
    ## Screenshots
-   ![Dashboard Screenshot](https://your-image-link.png)
+   ![Dashboard Overview](https://github.com/shivani-763/VrindaStore-DataInsights/blob/main/Screenshot%202026-01-08%20124109.png)
 
    
    
