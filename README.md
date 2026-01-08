@@ -27,5 +27,8 @@
 3. Use filters and interactive visuals to explore sales insights
 
    ## Screenshots
+   ![Dashboard Screenshot](https://your-image-link.png)
+
+   
    
 # 🌟 Show some love! Rate this project if you find it useful.”
